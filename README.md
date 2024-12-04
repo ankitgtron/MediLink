@@ -2,6 +2,16 @@
 *MediLink* is an innovative healthcare platform designed to assist patients in identifying diseases and connecting with the right healthcare professionals. The website incorporates advanced features like a **System Checker**, ensuring patients receive accurate guidance for their medical concerns. Additionally, it offers essential services such as 24/7 medical support, emergency services, OPD facilities, medical counseling, and specialized treatments for critical conditions like cancer and bone marrow transplants. With a strong commitment to improving healthcare delivery and promoting community well-being, *MediLink* seamlessly combines patient-centric care with cutting-edge medical technology to enhance health outcomes.
 
 ---
+## **Mission and Objectives**  
+### **Mission:**  
+To promote awareness and innovation in healthcare delivery, ensuring high-quality hospital services and community health care.  
+
+### **Objectives:**  
+1. Expand services to meet customer needs on a financially sustainable basis.  
+2. Ensure a safe and therapeutic environment for all patients, staff, and visitors.  
+3. Enhance patient satisfaction and improve healthcare efficiency.   
+
+---
 
 ## **Technology Stack**  
 *MediLink* is developed using the following technologies:  
@@ -65,26 +75,19 @@ To enhance the user experience, the following features can be added:
 1. **User Registration and Login:**  
    - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
    - Validate user information through OTP-based verification.
-   - Checkout the link for implementation [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
+   - Learn how to add signup and login pages [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
      
 2. **Health Articles and Tips:**  
    - Provide a section with curated health-related articles and wellness tips for users.
+   - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
 
 3. **Appointment Scheduling:**  
-   - Enable patients to book consultations with doctors based on availability.  
+   - Enable patients to book consultations with doctors based on availability.
+   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
 
 4. **Enhanced System Checker:**  
-   - Incorporate AI-based symptom detection for better diagnosis suggestions.  
----
-
-## **Mission and Objectives**  
-### **Mission:**  
-To promote awareness and innovation in healthcare delivery, ensuring high-quality hospital services and community health care.  
-
-### **Objectives:**  
-1. Expand services to meet customer needs on a financially sustainable basis.  
-2. Ensure a safe and therapeutic environment for all patients, staff, and visitors.  
-3. Enhance patient satisfaction and improve healthcare efficiency.   
+   - Incorporate AI-based symptom detection for better diagnosis suggestions.
+   - Learn how to add AI chatbot to your website [tutorial](https://www.youtube.com/watch?v=Bv8FORu-ACA)
 
 ---
 
