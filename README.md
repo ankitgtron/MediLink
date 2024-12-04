@@ -27,7 +27,23 @@ This website has Sections:
 #### 5) Contact: This section will contain the contact information
 
 Checkout this picture for your reference:
+#### 1) Home:
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/101e2bfd-180f-4613-a072-742a85f71d1b">
+
+#### 2) Service: 
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/d9599803-f284-4d3a-9669-2f53704fa18b">
+
+#### 3) About: 
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/9e265f44-8baa-42c1-a2c1-e77bd16de794">
+
+#### 4) FAQ:
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/07d602e9-ee98-4fa8-8e29-acd90f356f68">
+
+#### 5) Contact: 
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/00d1e9ba-f2ed-4b6e-8a3d-4396745aefe4">
+
+
+
 
 
 
