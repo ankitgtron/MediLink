@@ -15,4 +15,11 @@ This healthcare website is designed to assist patients in identifying diseases a
 ### Reading Material: https://www.w3schools.com/js/default.asp
 ### Lecture Video: https://www.youtube.com/watch?v=hKB-YGF14SY
 
+# How to Run Project?
+#### 1) Install the VScode software on your machine: Checkout this tutorial for installing the vscode  https://www.youtube.com/watch?v=TeZdo8mx0gc
+#### 2) Clone this project from github or you can download the project from github and run. checkout this tutorial to know more about cloning/downloading the project from github https://www.youtube.com/watch?v=Vl4Gl-ut1XI&t=213s
+
+
+
+
 
