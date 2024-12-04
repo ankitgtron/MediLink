@@ -66,7 +66,7 @@ The website contains the following sections:
    Get contact details and reach out for any queries or assistance.
 
 6.  **System Checker**  
-   Get your diseases with your symptoms .
+   Get your symptoms for better diagnosis .
 
 *Screenshots of each section are provided below for reference.*  
 
@@ -90,8 +90,8 @@ To enhance the user experience, the following features can be added:
 
 4. **Enhanced System Checker:**  
    - Incorporate AI-based symptom detection for better diagnosis suggestions.
-   - Learn how to add AI chatbot to your website [tutorial](https://www.youtube.com/watch?v=Bv8FORu-ACA)
-
+   - Learn how to incoporate chatgpt[tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
+     
 ---
 
 ## **Screenshots**  
