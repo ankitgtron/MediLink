@@ -90,7 +90,7 @@ To enhance the user experience, the following features can be added:
 
 4. **Enhanced System Checker:**  
    - Incorporate AI-based symptom detection for better diagnosis suggestions.
-   - Learn how to incoporate chatgpt[tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
+   - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
      
 ---
 
