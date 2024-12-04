@@ -20,14 +20,17 @@ This healthcare website is designed to assist patients in identifying diseases a
 
 # Basic Functionality of the website: 
 This website has Sections:
-1) Home
-2) Service
-3) About
-4) FAQ
-5) Contact
+#### 1) Home: This section will be used to navigate on homepage of website.
+#### 2) Service: This section will show the all the services provided by hospital
+#### 3) About: This section will show the details about hospital team and organization.
+#### 4) FAQ: This section will containt the Frequently asked question
+#### 5) Contact: This section will contain the contact information
 
 Checkout this picture for your reference:
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/101e2bfd-180f-4613-a072-742a85f71d1b">
+
+
+
 
 
 
