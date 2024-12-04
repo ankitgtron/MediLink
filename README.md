@@ -63,7 +63,10 @@ The website contains the following sections:
    Access answers to frequently asked questions about the website and services.  
 
 5. **Contact:**  
-   Get contact details and reach out for any queries or assistance.  
+   Get contact details and reach out for any queries or assistance.
+
+6.  **System Checker**  
+   Get your diseases with your symptoms .
 
 *Screenshots of each section are provided below for reference.*  
 
@@ -106,6 +109,10 @@ To enhance the user experience, the following features can be added:
 ![FAQ Screenshot](https://github.com/user-attachments/assets/07d602e9-ee98-4fa8-8e29-acd90f356f68)  
 
 ### 5. Contact:  
-![Contact Screenshot](https://github.com/user-attachments/assets/00d1e9ba-f2ed-4b6e-8a3d-4396745aefe4)  
+![Contact Screenshot](https://github.com/user-attachments/assets/00d1e9ba-f2ed-4b6e-8a3d-4396745aefe4) 
+
+### 6. System Checker: 
+![System Checker](<img width="664" alt="image" src="https://github.com/user-attachments/assets/99f0cec3-e730-4164-a719-b5104c46c69c">
+)
 
 ---
