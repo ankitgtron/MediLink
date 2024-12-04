@@ -64,7 +64,8 @@ To enhance the user experience, the following features can be added:
 
 1. **User Registration and Login:**  
    - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
-   - Validate user information through OTP-based verification.  
+   - Validate user information through OTP-based verification.
+   - Checkout the link for implementation [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
 
 2. **Enhanced System Checker:**  
    - Incorporate AI-based symptom detection for better diagnosis suggestions.  
