@@ -66,15 +66,15 @@ To enhance the user experience, the following features can be added:
    - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
    - Validate user information through OTP-based verification.
    - Checkout the link for implementation [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
-
-2. **Enhanced System Checker:**  
-   - Incorporate AI-based symptom detection for better diagnosis suggestions.  
+     
+2. **Health Articles and Tips:**  
+   - Provide a section with curated health-related articles and wellness tips for users.
 
 3. **Appointment Scheduling:**  
    - Enable patients to book consultations with doctors based on availability.  
 
-4. **Health Articles and Tips:**  
-   - Provide a section with curated health-related articles and wellness tips for users.  
+4. **Enhanced System Checker:**  
+   - Incorporate AI-based symptom detection for better diagnosis suggestions.  
 ---
 
 ## **Mission and Objectives**  
