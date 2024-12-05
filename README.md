@@ -114,17 +114,38 @@ This project is structured to ensure a step-by-step approach for feature develop
   - **Reading Material:** [MySql Guide](https://www.integrate.io/blog/complete-guide-to-database-schema-design-guide/)
   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=Dlx8_LJ3rek&list=PLDmvslp_VR0yhBmSTEbDGcoeZqOZMJQ_L)  
 - Integrate Spring Boot with MySQL using Spring Data JPA for CRUD operations.
-Requirements:
-   - Form for user registration (HTML, CSS).
-   - Backend for user data storage and verification (Spring Boot, MySQL).
-   - User login and session management.
-   - Learn more about Spring Boot and MySQL CRUD operation [tutorial](https://www.youtube.com/watch?v=mJtEmL5F0DU&list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl)
-  - *Screenshots are provided below for reference.*
-  - <img width="947" alt="image" src="https://github.com/user-attachments/assets/c87ab936-a1bc-4a2a-87a7-4569b1d4a843">
+   - **Reading Material:** [Spring Boot MySql Guide](https://hevodata.com/learn/spring-boot-mysql/)
+   - **Lecture Video:** [Spring Boot MySql Lecture](https://www.youtube.com/watch?v=Ey_Oilhvao0)  
+
+  ## Week-2 Deliverable
+  ### Backend Development:
+  - Implement the User Registration API in Spring Boot.
+  - Add functionality for OTP-based verification.
+  - Create a login system for users.
+  
+  ### Frontend Development:
+   - Create forms for User Registration and Login.
+   - Add client-side validation for form inputs.
+   - Implement OTP verification UI on the frontend.
+   - *Screenshots are provided below for reference.*
+   - <img width="947" alt="image" src="https://github.com/user-attachments/assets/c87ab936-a1bc-4a2a-87a7-4569b1d4a843">
 
 ---
-# Feature 3: Medical Articles and Resources  
-## Description: Provide users with curated health articles and resources.
+# Week 3: Medical Articles and Resources  
+## Description: Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
+## Week-3 Task:
+
+## Week-3 Deliverable:
+### Backend Development:
+- Implement an Article entity class with fields like id, title, content, author, specialty, and publishedDate.
+- Set up an API for creating, fetching, and filtering articles based on specialty.
+- Use Spring Data JPA for handling article-related CRUD operations.
+
+### Frontend Development:
+- Add an Articles Section on the frontend.
+- Create a dropdown filter for articles based on medical specialties.
+- Display article titles, authors, dates, and snippets. Use a "Read More" link for full content.
+- Fetch and display data from the backend using fetch.
 ## Requirements:
    - Add an "Articles" section on the frontend.
    - Create a backend system to manage and fetch articles dynamically.
