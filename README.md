@@ -15,7 +15,6 @@ To promote awareness and innovation in healthcare delivery, ensuring high-qualit
 - Foster systematic feature implementation, starting with foundational functionalities like User Registration and Login and progressing to advanced tools such as System Checker AI and Appointment Scheduling. 
 
 ---
-
 ## **Technology Stack**  
 *MediLink* is developed using the following technologies:  
 
@@ -35,7 +34,6 @@ JavaScript adds dynamic functionalities and interactivity to the website.
 - **Lecture Video:** [JavaScript Lecture](https://www.youtube.com/watch?v=hKB-YGF14SY)  
 
 ---
-
 ## **How to Run the Project**  
 Follow these steps to set up and run the *MediLink* project on your local machine:  
 
@@ -49,7 +47,6 @@ Follow these steps to set up and run the *MediLink* project on your local machin
    - Open the project in VSCode and launch it using the built-in Live Server or any browser.  
 
 ---
-
 # Project Structure for Feature Implementation
 This project is structured to ensure a step-by-step approach for feature development. Students must fully implement Feature 1 before progressing to Feature 2, and so on. Each feature builds on the previous one, ensuring a solid foundation for the final application.
 
@@ -97,7 +94,6 @@ The website contains the following sections:
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/ce8c6546-4ab0-48f6-8bd4-518c62a4a52f">
 
 ---
-
 # Feature 2: User Registration and Login
 ## Description: 
 - Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
@@ -107,9 +103,9 @@ Requirements:
    - User login and session management.
    - Learn more about Spring Boot and MySQL CRUD operation [tutorial](https://www.youtube.com/watch?v=mJtEmL5F0DU&list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl)
   - *Screenshots are provided below for reference.*
-  
-  <img width="947" alt="image" src="https://github.com/user-attachments/assets/c87ab936-a1bc-4a2a-87a7-4569b1d4a843">
+  - <img width="947" alt="image" src="https://github.com/user-attachments/assets/c87ab936-a1bc-4a2a-87a7-4569b1d4a843">
 
+---
 # Feature 3: Medical Articles and Resources  
 ## Description: Provide users with curated health articles and resources.
 ## Requirements:
@@ -118,9 +114,9 @@ Requirements:
    - Include filters based on medical specialties.
    - Explore one possible implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
    - *Screenshots are provided below for reference.*
-   <img width="523" alt="image" src="https://github.com/user-attachments/assets/9774ad20-5939-4c97-b343-552eb9fc31db">
+  - <img width="523" alt="image" src="https://github.com/user-attachments/assets/9774ad20-5939-4c97-b343-552eb9fc31db">
 
-
+  ---
 # Feature 4: OPD Appointment Booking
 ## Description: Allow users to book outpatient department (OPD) appointments.
 ## Requirements:
@@ -130,8 +126,8 @@ Requirements:
    - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)
    - *Screenshots are provided below for reference.*
    - <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
-
-
+   
+---
 # Feature 5: Disease Classification Tool (System Checker)
 ## Description: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
 ## Requirements:
