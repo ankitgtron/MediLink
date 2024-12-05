@@ -237,8 +237,8 @@ This project is structured to ensure a step-by-step approach for feature develop
 - Perform unit testing for both frontend and backend.
 
 ### Deployment:
-- Deploy the backend (Spring Boot) on Heroku or AWS.
-- Deploy the frontend (React app) on Netlify or Vercel.
+- Deploy the backend (Spring Boot) on AWS.
+- Deploy the frontend (React app) on Vercel.
 - Ensure everything works in the live environment.
 - Monitor application performance and user activity.
 ---
