@@ -47,10 +47,13 @@ Follow these steps to set up and run the *MediLink* project on your local machin
 
 ---
 
-# Feature 1
-## **Basic Functionality**  
-The website contains the following sections:  
+# Project Structure for Feature Implementation
+This project is structured to ensure a step-by-step approach for feature development. Students must fully implement Feature 1 before progressing to Feature 2, and so on. Each feature builds on the previous one, ensuring a solid foundation for the final application.
 
+# Features Breakdown
+
+# Feature 1 **Basic Functionality**  
+The website contains the following sections:  
 1. **Home:**  
    Navigate to the homepage of the website for an overview of services and features.  
 
@@ -92,25 +95,37 @@ The website contains the following sections:
 
 ---
 
-# Feature 2  
-**User Registration and Login:**  
-   - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
-   - Validate user information through OTP-based verification.
-   - Learn how to add signup and login pages [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
+# Feature 2 User Registration and Login
+## Description: 
+Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
+Requirements:
+   (a) Form for user registration (HTML, CSS).
+   (b) Backend for user data storage and verification (Spring Boot, MySQL).
+   (c) User login and session management.
 
-# Feature 3:
-**Health Articles and Tips:**  
-   - Provide a section with curated health-related articles and wellness tips for users.
-   - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
+# Feature 3: Medical Articles and Resources  
+## Description: Provide users with curated health articles and resources.
+## Requirements:
+   (a) Add an "Articles" section on the frontend.
+   (b) Create a backend system to manage and fetch articles dynamically.
+   (c) Include filters based on medical specialties.
+      (i) Provide a section with curated health-related articles and wellness tips for users.
+      (ii) For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
 
-# Feature 4:
-**Appointment Scheduling:**  
-   - Enable patients to book consultations with doctors based on availability.
+# Feature 4: OPD Appointment Booking
+## Description: Allow users to book outpatient department (OPD) appointments.
+## Requirements:
+   (a) Appointment booking form.
+   (b) Backend to handle slot availability and booking confirmation.
+   (c) Integration with a user dashboard to manage bookings.
    - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
 
-# Feature 5
-**Enhanced System Checker:**  
-   - Incorporate AI-based symptom detection for better diagnosis suggestions.
+# Feature 5 Disease Classification Tool (System Checker)
+## Description: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
+## Requirements:
+   (a) Input form for symptoms.
+   (b) Backend logic to classify symptoms using predefined conditions.
+   (c) Display results with relevant doctor profiles.
    - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
      
 ---
