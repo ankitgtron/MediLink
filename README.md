@@ -198,9 +198,9 @@ This project is structured to ensure a step-by-step approach for feature develop
 **Goal**: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
 ## Week-5 Task:
 - Implement AI Powered tools in app
- - **Reading Material:** [ChatGpt Guide](https://www.baeldung.com/spring-boot-chatgpt-api-openai)
-  - **Lecture Video 1:** [ChatGpt Lecture 1](https://www.youtube.com/watch?v=HlDkuFy8xRM)
-    **Lecture video 2:** [ChatGpt Lecture 2](https://www.youtube.com/watch?v=B8UQ5s4kLXg)
+   - **Reading Material:** [ChatGpt Guide](https://www.baeldung.com/spring-boot-chatgpt-api-openai)
+   - **Lecture Video 1:** [ChatGpt Lecture 1](https://www.youtube.com/watch?v=HlDkuFy8xRM)
+   - **Lecture video 2:** [ChatGpt Lecture 2](https://www.youtube.com/watch?v=B8UQ5s4kLXg)
 ## Week-5 Deliverable:
 ### Backend Development:
 - Implement an AI-powered disease classification tool (e.g., using predefined symptoms).
