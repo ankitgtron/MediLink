@@ -5,8 +5,8 @@ With a strong commitment to improving healthcare delivery and promoting communit
 
 ---
 ## **Mission and Objectives**  
-### **Mission:**  
-To promote awareness and innovation in healthcare delivery, ensuring high-quality hospital services and community health care.  
+### **Goal:**  
+By the end of the course, participants will develop a fully functional health care website using modern full-stack technologies
 
 ### **Objectives:**  
 - Expand services to meet customer needs on a financially sustainable basis.
@@ -48,11 +48,11 @@ Follow these steps to set up and run the *MediLink* project on your local machin
 
 ---
 # Project Structure for Feature Implementation
-This project is structured to ensure a step-by-step approach for feature development. Students must fully implement Feature 1 before progressing to Feature 2, and so on. Each feature builds on the previous one, ensuring a solid foundation for the final application.
+This project is structured to ensure a step-by-step approach for feature development. Participants must fully implement Week-1 deliverables before progressing to Week-2 deliverables, and so on. Each Week feature builds on the previous one, ensuring a solid foundation for the final application.
 
 # Features Breakdown
 
-# Feature 1 **Basic Functionality**  
+# Week 1: **Introduction to Web Development and Tools** 
 The website contains the following sections:  
 1. **Home:**  
    Navigate to the homepage of the website for an overview of services and features.  
