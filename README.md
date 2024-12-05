@@ -127,7 +127,10 @@ Requirements:
    - Appointment booking form.
    - Backend to handle slot availability and booking confirmation.
    - Integration with a user dashboard to manage bookings.
-   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
+   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)
+   - *Screenshots are provided below for reference.*
+   - <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
+
 
 # Feature 5: Disease Classification Tool (System Checker)
 ## Description: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
@@ -136,5 +139,7 @@ Requirements:
    - Backend logic to classify symptoms using predefined conditions.
    - Display results with relevant doctor profiles.
    - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
-     
+   - *Screenshots are provided below for reference.*
+   - <img width="663" alt="image" src="https://github.com/user-attachments/assets/cf0cf76b-d673-4a27-a28b-c8d92ca22727">
+
 ---
