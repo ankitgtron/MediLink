@@ -19,19 +19,6 @@ By the end of the course, participants will develop a fully functional health ca
 *MediLink* is developed using the following technologies:   
 
 ---
-## **How to Run the Project**  
-Follow these steps to set up and run the *MediLink* project on your local machine:  
-
-1. **Install Visual Studio Code (VSCode):**  
-   - Install the software using this [tutorial](https://www.youtube.com/watch?v=TeZdo8mx0gc).  
-
-2. **Clone or Download the Project from GitHub:**  
-   - Learn how to clone/download the repository with this [video guide](https://www.youtube.com/watch?v=Vl4Gl-ut1XI&t=213s).  
-
-3. **Run the Website Locally:**  
-   - Open the project in VSCode and launch it using the built-in Live Server or any browser.  
-
----
 # Project Structure for Feature Implementation
 This project is structured to ensure a step-by-step approach for feature development. Participants must fully implement Week-1 deliverables before progressing to Week-2 deliverables, and so on. Each Week feature builds on the previous one, ensuring a solid foundation for the final application.
 
@@ -42,9 +29,23 @@ This project is structured to ensure a step-by-step approach for feature develop
 - Overview of Full-Stack Development
    - **Lecture Video:** [Overview](https://www.youtube.com/watch?v=8KaJRw-rfn8)
 - Tool and Environment setup
+   ### (1) Frontend:
+  Install VSCode for frontend development. VSCode is a great choice due to its flexibility and extensions for HTML, CSS, JavaScript, and React.
+  - Learn more about VSCode setup [VSCode Lecture](https://www.youtube.com/watch?v=TeZdo8mx0gc&t=882s)
+  
+  ### (2) Backend:
+  Install IntelliJ IDEA or Spring Tool Suite (STS) for Spring Boot development. These IDEs provide integrated support for Spring Boot and related technologies.
      -  **Reading Material:** [Spring Boot Guide](https://spring.io/guides/gs/spring-boot)
-     -  **Lecture Video:** [SpringBoot Lecture](https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF)  
-
+     -  **Lecture Video:** [SpringBoot Lecture](https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF)
+  
+  ###  (3) Version Control:
+   - Install Git and set up a GitHub repository for version control.
+   - **Lecture Video:** [Git Version Control Lecture](https://www.youtube.com/watch?v=Ez8F0nW6S-w)
+     
+   ### (4) Database:
+  Set up MySQL for the backend database. Install MySQL Workbench.
+  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=UzodkZUt5JY)
+    
 - Basics of HTML (HyperText Markup Language): HTML forms the backbone of the website, providing its basic structure and content.
   -    **Reading Material:** [HTML Guide](https://www.w3schools.com/html/default.asp)
   -    **Lecture Video:** [HTML Lecture](https://www.youtube.com/watch?v=BsDoLVMnmZs)  
@@ -59,6 +60,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 
 ## Week-1 Deliverables
+- Understand the structure of Healthcare Website
 - Create a basic static webpage with the following navigation feature
   
 1. **Home:**  
@@ -87,29 +89,20 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 *Screenshots are provided below for reference.*  
 ## **Screenshots**  
-
-### 1. Home:  
 ![Home Screenshot](https://github.com/user-attachments/assets/101e2bfd-180f-4613-a072-742a85f71d1b)  
 
-### 2. Services:  
 ![Services Screenshot](https://github.com/user-attachments/assets/d9599803-f284-4d3a-9669-2f53704fa18b)  
-
-### 3. About:  
+ 
 ![About Screenshot](https://github.com/user-attachments/assets/9e265f44-8baa-42c1-a2c1-e77bd16de794)  
-
-### 4. FAQ:  
+  
 ![FAQ Screenshot](https://github.com/user-attachments/assets/07d602e9-ee98-4fa8-8e29-acd90f356f68)  
-
-### 5. Contact:  
+  
 ![Contact Screenshot](https://github.com/user-attachments/assets/00d1e9ba-f2ed-4b6e-8a3d-4396745aefe4) 
-
-### 6. System Checker: 
-
-### 7. OPD Appointment Booking
+ 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/ce8c6546-4ab0-48f6-8bd4-518c62a4a52f">
 
 ---
-# Feature 2: User Registration and Login
+# Week 2: Database Design and Integration
 ## Description: 
 - Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
 Requirements:
