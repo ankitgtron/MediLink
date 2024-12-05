@@ -25,7 +25,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 # Features Breakdown
 
 # Week 1: **Introduction to Web Development and Tools** 
-Goal: Set up the development environment and develop the basic structure of the web app.
+**Goal:** Set up the development environment and develop the basic structure of the web app.
 ## Week-1 Tasks:
 - Overview of Full-Stack Development
    - **Lecture Video:** [Overview](https://www.youtube.com/watch?v=8KaJRw-rfn8)
@@ -106,7 +106,7 @@ Goal: Set up the development environment and develop the basic structure of the 
 
 ---
 # Week 2: Database Design and Integration
-Goal: Implement a secure user registration system with OTP verification and integrate a database for user data storage.
+**Goal:** Implement a secure user registration system with OTP verification and integrate a database for user data storage.
 ## Week-2 Task:
 - Create a table for users in MySQL with fields like id, email, phone number, password, OTP, etc.
    - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
@@ -134,7 +134,7 @@ Goal: Implement a secure user registration system with OTP verification and inte
 
 ---
 # Week 3: Medical Articles and Resources  
-Goal: Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
+**Goal:** Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
 
 ## Week-3 Task:
 - Create a table for article with
@@ -161,24 +161,44 @@ Goal: Create an "Articles" section and build a system to manage and filter artic
 - Create a dropdown filter for articles based on medical specialties.
 - Display article titles, authors, dates, and snippets. Use a "Read More" link for full content.
 - Fetch and display data from the backend using fetch.
-## Requirements:
-   - Add an "Articles" section on the frontend.
-   - Create a backend system to manage and fetch articles dynamically.
-   - Include filters based on medical specialties.
-   - Explore one possible implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
-   - *Screenshots are provided below for reference.*
+
+  **Tip** Explore one possible implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
+- *Screenshots are provided below for reference.*
   - <img width="523" alt="image" src="https://github.com/user-attachments/assets/9774ad20-5939-4c97-b343-552eb9fc31db">
 
   ---
-# Feature 4: OPD Appointment Booking
-## Description: Allow users to book outpatient department (OPD) appointments.
-## Requirements:
-   - Appointment booking form.
-   - Backend to handle slot availability and booking confirmation.
-   - Integration with a user dashboard to manage bookings.
-   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)
-   - *Screenshots are provided below for reference.*
-   - <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
+# Week-4: OPD Appointment Booking
+**Goal:** Enable users to book OPD appointments and manage bookings
+## Week-4 Task:
+- Create appointment booking form using HTML, CSS, and JavaScript. You can add Email, Phone, Address, Appointment Id etc.
+  - **Reading Material:** [Appointment Guide](https://www.geeksforgeeks.org/appointment-scheduling-system-in-spring-boot/)
+  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
+ 
+- Use Spring Boot to handle user data, manage appointment slots, and store bookings in a MySQL database.
+   - **Reading Material:** [Spring Boot MySql Guide](https://hevodata.com/learn/spring-boot-mysql/)
+   - **Lecture Video:** [Spring Boot MySql Lecture](https://www.youtube.com/watch?v=Ey_Oilhvao0)  
+  
+- Design tables to store available slots and appointments.
+   - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
+   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
+- API Integration: Create RESTful APIs in Spring Boot to manage appointment data.
+   - **Reading Material:** [RestApi Guide](https://spring.io/guides/tutorials/rest)  
+   - **Lecture Video:** [RestApi Lecture](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK)
+
+## Week-4 Deliverable:
+### Backend Development:
+- Design a Booking system where users can book an appointment for OPD services.
+- Implement a slot availability system.
+- Create a confirmation API for successful bookings.
+- Integrate user data with the appointments table in the database.
+
+### Frontend Development:
+- Create a form for OPD Appointment Booking.
+- Display available slots dynamically from the backend.
+- Show appointment details on the user dashboard.
+- Send booking confirmation emails to users.
+- *Screenshots are provided below for reference.*
+- <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
    
 ---
 # Feature 5: Disease Classification Tool (System Checker)
