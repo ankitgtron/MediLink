@@ -113,7 +113,7 @@ Requirements:
    - Add an "Articles" section on the frontend.
    - Create a backend system to manage and fetch articles dynamically.
    - Include filters based on medical specialties.
-   - 
+   - Learn more about implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
 
 # Feature 4: OPD Appointment Booking
 ## Description: Allow users to book outpatient department (OPD) appointments.
