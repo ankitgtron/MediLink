@@ -137,9 +137,18 @@ Goal: Implement a secure user registration system with OTP verification and inte
 Goal: Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
 
 ## Week-3 Task:
-- Create a table for users in MySQL with fields like id, email, phone number, password, OTP, etc.
+- Create a table for article with
+     - id(Unique identifier), title (Title of the article)
+     - content (Full content of the article)
+     - author (Author's name)
+     - specialty (Medical specialty of the article)
+     - publishedDate (Publication date), etc.
    - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
-   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)  
+   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
+- Rest API's in springboot
+     - **Reading Material:** [RestApi Guide](https://spring.io/guides/tutorials/rest)  
+     - **Lecture Video:** [RestApi Lecture](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK)
+  
 
 ## Week-3 Deliverable:
 ### Backend Development:
