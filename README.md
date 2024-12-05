@@ -1,7 +1,7 @@
 # **MediLink**  
-MediLink is an innovative healthcare platform designed to assist patients in identifying diseases and connecting with the right healthcare professionals. The website incorporates advanced features such as a System Checker, ensuring accurate guidance for medical concerns. It also provides essential services like 24/7 medical support, emergency assistance, OPD facilities, medical counseling, and specialized treatments for critical conditions, including cancer and bone marrow transplants.
+MediLink is an innovative, **AI-powered** healthcare platform designed to assist patients in identifying diseases and connecting with the right healthcare professionals. Leveraging advanced AI algorithms, the website incorporates features such as a System Checker, ensuring accurate guidance for medical concerns based on user-reported symptoms. The platform also provides essential services like 24/7 medical support, emergency assistance, OPD facilities, medical counseling, and specialized treatments for critical conditions, including cancer and bone marrow transplants.
 
-With a strong commitment to improving healthcare delivery and promoting community well-being, MediLink blends patient-centric care with cutting-edge medical technology to deliver superior health outcomes.
+With a strong commitment to improving healthcare delivery and promoting community well-being, MediLink blends patient-centric care with cutting-edge medical technology and artificial intelligence to deliver superior health outcomes. By harnessing the power of AI, MediLink ensures that patients receive personalized and precise recommendations, transforming healthcare experiences for both patients and providers.
 
 ---
 ## **Mission and Objectives**  
