@@ -137,12 +137,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 **Goal:** Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
 
 ## Week-3 Task:
-- Create a table for article with
-     - id(Unique identifier), title (Title of the article)
-     - content (Full content of the article)
-     - author (Author's name)
-     - specialty (Medical specialty of the article)
-     - publishedDate (Publication date), etc.
+- Create a table for article with id(Unique identifier), title (Title of the article), content (Full content of the article), author (Author's name), specialty (Medical specialty of the article), publishedDate (Publication date), etc.
    - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
    - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
 - Rest API's in springboot
@@ -173,11 +168,9 @@ This project is structured to ensure a step-by-step approach for feature develop
 - Create appointment booking form using HTML, CSS, and JavaScript. You can add Email, Phone, Address, Appointment Id etc.
   - **Reading Material:** [Appointment Guide](https://www.geeksforgeeks.org/appointment-scheduling-system-in-spring-boot/)
   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
- 
 - Use Spring Boot to handle user data, manage appointment slots, and store bookings in a MySQL database.
    - **Reading Material:** [Spring Boot MySql Guide](https://hevodata.com/learn/spring-boot-mysql/)
    - **Lecture Video:** [Spring Boot MySql Lecture](https://www.youtube.com/watch?v=Ey_Oilhvao0)  
-  
 - Design tables to store available slots and appointments.
    - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
    - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
@@ -201,14 +194,24 @@ This project is structured to ensure a step-by-step approach for feature develop
 - <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
    
 ---
-# Feature 5: Disease Classification Tool (System Checker)
-## Description: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
-## Requirements:
-   - Input form for symptoms.
-   - Backend logic to classify symptoms using predefined conditions.
-   - Display results with relevant doctor profiles.
-   - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
-   - *Screenshots are provided below for reference.*
-   - <img width="663" alt="image" src="https://github.com/user-attachments/assets/cf0cf76b-d673-4a27-a28b-c8d92ca22727">
+# Week 5: Disease Classification Tool (System Checker)
+**Goal**: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
+## Week-5 Task:
+- Implement AI Powered tools in app
+ - **Reading Material:** [ChatGpt Guide](https://www.baeldung.com/spring-boot-chatgpt-api-openai)
+  - **Lecture Video 1:** [ChatGpt Lecture 1](https://www.youtube.com/watch?v=HlDkuFy8xRM)
+    **Lecture video 2:** [ChatGpt Lecture 2](https://www.youtube.com/watch?v=B8UQ5s4kLXg)
+## Week-5 Deliverable:
+### Backend Development:
+- Implement an AI-powered disease classification tool (e.g., using predefined symptoms).
+- Add a backend API for symptom input and disease classification logic.
+- Display doctor profiles based on classified diseases.
+
+### Frontend Development:
+- Create an input form where users can enter symptoms.
+- Display potential diseases and doctor recommendations based on the input.
+- Integrate ChatGPT for symptom analysis.
+- *Screenshots are provided below for reference.*
+- <img width="663" alt="image" src="https://github.com/user-attachments/assets/cf0cf76b-d673-4a27-a28b-c8d92ca22727">
 
 ---
