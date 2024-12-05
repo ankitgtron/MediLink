@@ -44,7 +44,7 @@ This project is structured to ensure a step-by-step approach for feature develop
      
    ### (4) Database:
   Set up MySQL for the backend database. Install MySQL Workbench.
-  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=UzodkZUt5JY)
+  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=uj4OYk5nKCg)
     
 - Basics of HTML (HyperText Markup Language): HTML forms the backbone of the website, providing its basic structure and content.
   -    **Reading Material:** [HTML Guide](https://www.w3schools.com/html/default.asp)
@@ -61,7 +61,9 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 ## Week-1 Deliverables
 - Understand the structure of Healthcare Website
-- Create a basic static webpage with the following navigation feature
+- Create a basic structure with HTML, CSS, and JavaScript for the homepage, services, about, FAQ, contact, and system checker pages, sign up/ login, appointment booking .
+- Add navigation between these sections (Home, Services, About, FAQ, Contact).
+- Add basic content to the pages.
   
 1. **Home:**  
    Navigate to the homepage of the website for an overview of services and features.  
@@ -103,8 +105,15 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 ---
 # Week 2: Database Design and Integration
-## Description: 
-- Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
+## Week-2 Task:
+- Create a table for users in MySQL with fields like id, email, phone number, password, OTP, etc.
+   - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
+   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)  
+
+- Design the users table schema.
+  - **Reading Material:** [MySql Guide](https://www.integrate.io/blog/complete-guide-to-database-schema-design-guide/)
+  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=Dlx8_LJ3rek&list=PLDmvslp_VR0yhBmSTEbDGcoeZqOZMJQ_L)  
+- Integrate Spring Boot with MySQL using Spring Data JPA for CRUD operations.
 Requirements:
    - Form for user registration (HTML, CSS).
    - Backend for user data storage and verification (Spring Boot, MySQL).
