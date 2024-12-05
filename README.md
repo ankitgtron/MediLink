@@ -19,11 +19,13 @@ To promote awareness and innovation in healthcare delivery, ensuring high-qualit
 *MediLink* is developed using the following technologies:  
 
 ### **1) HTML (HyperText Markup Language):**  
+![image](https://github.com/user-attachments/assets/14ca8ba8-ba23-4bff-ae92-bf81d12693c0)
 HTML forms the backbone of the website, providing its basic structure and content.  
 - **Reading Material:** [HTML Guide](https://www.w3schools.com/html/default.asp)  
 - **Lecture Video:** [HTML Lecture](https://www.youtube.com/watch?v=BsDoLVMnmZs)  
 
 ### **2) CSS (Cascading Style Sheets):**  
+https://www.google.com/imgres?q=css%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fd%2Fd5%2FCSS3_logo_and_wordmark.svg%2F640px-CSS3_logo_and_wordmark.svg.png&imgrefurl=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3ACSS3_logo_and_wordmark.svg&docid=UTcB3QAkBjhX9M&tbnid=3cj-1zQaqgC8BM&vet=12ahUKEwj1ydHziJCKAxXx1zgGHcS0GiYQM3oECE0QAA..i&w=640&h=904&hcb=2&ved=2ahUKEwj1ydHziJCKAxXx1zgGHcS0GiYQM3oECE0QAA
 CSS styles and enhances the visual appeal of the website, making it responsive and user-friendly.  
 - **Reading Material:** [CSS Guide](https://www.w3schools.com/css/default.asp)  
 - **Lecture Video:** [CSS Lecture](https://www.youtube.com/watch?v=wRNinF7YQqQ)  
