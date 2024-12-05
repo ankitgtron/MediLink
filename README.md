@@ -105,6 +105,7 @@ Requirements:
    - Form for user registration (HTML, CSS).
    - Backend for user data storage and verification (Spring Boot, MySQL).
    - User login and session management.
+   - Learn more about Spring Boot and MySQL CRUD operation [tutorial](https://www.youtube.com/watch?v=mJtEmL5F0DU&list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl)
 
 # Feature 3: Medical Articles and Resources  
 ## Description: Provide users with curated health articles and resources.
@@ -112,8 +113,7 @@ Requirements:
    - Add an "Articles" section on the frontend.
    - Create a backend system to manage and fetch articles dynamically.
    - Include filters based on medical specialties.
-      - Provide a section with curated health-related articles and wellness tips for users.
-      - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
+   - 
 
 # Feature 4: OPD Appointment Booking
 ## Description: Allow users to book outpatient department (OPD) appointments.
