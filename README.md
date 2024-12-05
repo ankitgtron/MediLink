@@ -167,7 +167,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 ## Week-4 Task:
 - Create appointment booking form using HTML, CSS, and JavaScript. You can add Email, Phone, Address, Appointment Id etc.
   - **Reading Material:** [Appointment Guide](https://www.geeksforgeeks.org/appointment-scheduling-system-in-spring-boot/)
-  - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
+  - **Lecture Video:** [Appointment Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)
 - Use Spring Boot to handle user data, manage appointment slots, and store bookings in a MySQL database.
    - **Reading Material:** [Spring Boot MySql Guide](https://hevodata.com/learn/spring-boot-mysql/)
    - **Lecture Video:** [Spring Boot MySql Lecture](https://www.youtube.com/watch?v=Ey_Oilhvao0)  
