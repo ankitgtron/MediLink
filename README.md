@@ -47,6 +47,7 @@ Follow these steps to set up and run the *MediLink* project on your local machin
 
 ---
 
+# Feature 1
 ## **Basic Functionality**  
 The website contains the following sections:  
 
@@ -69,31 +70,6 @@ The website contains the following sections:
    Get your symptoms for better diagnosis .
 
 *Screenshots of each section are provided below for reference.*  
-
----
-
-## **Additional Features**  
-To enhance the user experience, the following features can be added:  
-
-1. **User Registration and Login:**  
-   - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
-   - Validate user information through OTP-based verification.
-   - Learn how to add signup and login pages [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
-     
-2. **Health Articles and Tips:**  
-   - Provide a section with curated health-related articles and wellness tips for users.
-   - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
-
-3. **Appointment Scheduling:**  
-   - Enable patients to book consultations with doctors based on availability.
-   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
-
-4. **Enhanced System Checker:**  
-   - Incorporate AI-based symptom detection for better diagnosis suggestions.
-   - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
-     
----
-
 ## **Screenshots**  
 
 ### 1. Home:  
@@ -114,5 +90,27 @@ To enhance the user experience, the following features can be added:
 ### 6. System Checker: 
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/ce8c6546-4ab0-48f6-8bd4-518c62a4a52f">
 
+---
 
+# Feature 2  
+**User Registration and Login:**  
+   - Implement a secure registration feature allowing users to sign up with their mobile number or email.  
+   - Validate user information through OTP-based verification.
+   - Learn how to add signup and login pages [tutorial](https://www.youtube.com/watch?v=H8ThscWsQV8&list=PLA9oyBlTfuCguMi9PTwvA2ewTPJ7701EI)
+
+# Feature 3:
+**Health Articles and Tips:**  
+   - Provide a section with curated health-related articles and wellness tips for users.
+   - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
+
+# Feature 4:
+**Appointment Scheduling:**  
+   - Enable patients to book consultations with doctors based on availability.
+   - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
+
+# Feature 5
+**Enhanced System Checker:**  
+   - Incorporate AI-based symptom detection for better diagnosis suggestions.
+   - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
+     
 ---
