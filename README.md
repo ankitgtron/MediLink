@@ -1,5 +1,7 @@
 # **MediLink**  
-*MediLink* is an innovative healthcare platform designed to assist patients in identifying diseases and connecting with the right healthcare professionals. The website incorporates advanced features like a **System Checker**, ensuring patients receive accurate guidance for their medical concerns. Additionally, it offers essential services such as 24/7 medical support, emergency services, OPD facilities, medical counseling, and specialized treatments for critical conditions like cancer and bone marrow transplants. With a strong commitment to improving healthcare delivery and promoting community well-being, *MediLink* seamlessly combines patient-centric care with cutting-edge medical technology to enhance health outcomes.
+MediLink is an innovative healthcare platform designed to assist patients in identifying diseases and connecting with the right healthcare professionals. The website incorporates advanced features such as a System Checker, ensuring accurate guidance for medical concerns. It also provides essential services like 24/7 medical support, emergency assistance, OPD facilities, medical counseling, and specialized treatments for critical conditions, including cancer and bone marrow transplants.
+
+With a strong commitment to improving healthcare delivery and promoting community well-being, MediLink blends patient-centric care with cutting-edge medical technology to deliver superior health outcomes.
 
 ---
 ## **Mission and Objectives**  
@@ -7,9 +9,10 @@
 To promote awareness and innovation in healthcare delivery, ensuring high-quality hospital services and community health care.  
 
 ### **Objectives:**  
-1. Expand services to meet customer needs on a financially sustainable basis.  
-2. Ensure a safe and therapeutic environment for all patients, staff, and visitors.  
-3. Enhance patient satisfaction and improve healthcare efficiency.   
+- Expand services to meet customer needs on a financially sustainable basis.
+- Ensure a safe and therapeutic environment for all patients, staff, and visitors.
+- Enhance patient satisfaction and improve healthcare efficiency.
+- Foster systematic feature implementation, starting with foundational functionalities like User Registration and Login and progressing to advanced tools such as System Checker AI and Appointment Scheduling. 
 
 ---
 
@@ -95,37 +98,37 @@ The website contains the following sections:
 
 ---
 
-# Feature 2 User Registration and Login
+# Feature 2: User Registration and Login
 ## Description: 
-Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
+- Implement a secure user registration system allowing patients to register using their email and phone number. Include OTP-based verification for authentication.
 Requirements:
-   (a) Form for user registration (HTML, CSS).
-   (b) Backend for user data storage and verification (Spring Boot, MySQL).
-   (c) User login and session management.
+   - Form for user registration (HTML, CSS).
+   - Backend for user data storage and verification (Spring Boot, MySQL).
+   - User login and session management.
 
 # Feature 3: Medical Articles and Resources  
 ## Description: Provide users with curated health articles and resources.
 ## Requirements:
-   (a) Add an "Articles" section on the frontend.
-   (b) Create a backend system to manage and fetch articles dynamically.
-   (c) Include filters based on medical specialties.
-      (i) Provide a section with curated health-related articles and wellness tips for users.
-      (ii) For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
+   - Add an "Articles" section on the frontend.
+   - Create a backend system to manage and fetch articles dynamically.
+   - Include filters based on medical specialties.
+      - Provide a section with curated health-related articles and wellness tips for users.
+      - For example you can add section that will show Foods That Boost Immunity, The Importance of Regular Exercise, etc.
 
 # Feature 4: OPD Appointment Booking
 ## Description: Allow users to book outpatient department (OPD) appointments.
 ## Requirements:
-   (a) Appointment booking form.
-   (b) Backend to handle slot availability and booking confirmation.
-   (c) Integration with a user dashboard to manage bookings.
+   - Appointment booking form.
+   - Backend to handle slot availability and booking confirmation.
+   - Integration with a user dashboard to manage bookings.
    - Learn how to add appointment scheduling [tutorial](https://www.youtube.com/watch?v=IuYVfEuiSso)  
 
-# Feature 5 Disease Classification Tool (System Checker)
+# Feature 5: Disease Classification Tool (System Checker)
 ## Description: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
 ## Requirements:
-   (a) Input form for symptoms.
-   (b) Backend logic to classify symptoms using predefined conditions.
-   (c) Display results with relevant doctor profiles.
+   - Input form for symptoms.
+   - Backend logic to classify symptoms using predefined conditions.
+   - Display results with relevant doctor profiles.
    - Learn how to incoporate chatgpt [tutorial](https://www.youtube.com/watch?v=70H_7C0kMbI)
      
 ---
