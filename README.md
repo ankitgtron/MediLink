@@ -106,6 +106,9 @@ Requirements:
    - Backend for user data storage and verification (Spring Boot, MySQL).
    - User login and session management.
    - Learn more about Spring Boot and MySQL CRUD operation [tutorial](https://www.youtube.com/watch?v=mJtEmL5F0DU&list=PLA7e3zmT6XQXIFcweUahWz2rQtmeI8dnl)
+  *Screenshots of each section are provided below for reference.*
+[Screenshot for reference](<img width="947" alt="image" src="https://github.com/user-attachments/assets/c87ab936-a1bc-4a2a-87a7-4569b1d4a843">
+)
 
 # Feature 3: Medical Articles and Resources  
 ## Description: Provide users with curated health articles and resources.
@@ -113,7 +116,7 @@ Requirements:
    - Add an "Articles" section on the frontend.
    - Create a backend system to manage and fetch articles dynamically.
    - Include filters based on medical specialties.
-   - Learn more about implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
+   - Explore one possible implementation approach [reading material](https://github.com/ankitgtron/MediLink/blob/master/Medical%20Articles%20and%20resources%20%20implementation%20idea.md)
 
 # Feature 4: OPD Appointment Booking
 ## Description: Allow users to book outpatient department (OPD) appointments.
