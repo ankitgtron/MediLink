@@ -25,6 +25,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 # Features Breakdown
 
 # Week 1: **Introduction to Web Development and Tools** 
+Goal: Set up the development environment and develop the basic structure of the web app.
 ## Week-1 Tasks:
 - Overview of Full-Stack Development
    - **Lecture Video:** [Overview](https://www.youtube.com/watch?v=8KaJRw-rfn8)
@@ -105,6 +106,7 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 ---
 # Week 2: Database Design and Integration
+Goal: Implement a secure user registration system with OTP verification and integrate a database for user data storage.
 ## Week-2 Task:
 - Create a table for users in MySQL with fields like id, email, phone number, password, OTP, etc.
    - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
@@ -132,8 +134,12 @@ This project is structured to ensure a step-by-step approach for feature develop
 
 ---
 # Week 3: Medical Articles and Resources  
-## Description: Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
+Goal: Create an "Articles" section and build a system to manage and filter articles based on medical specialties.
+
 ## Week-3 Task:
+- Create a table for users in MySQL with fields like id, email, phone number, password, OTP, etc.
+   - **Reading Material:** [MySql Guide](https://www.geeksforgeeks.org/crud-operations-in-mysql/)  
+   - **Lecture Video:** [MySql Lecture](https://www.youtube.com/watch?v=M21rXLWOnFs)  
 
 ## Week-3 Deliverable:
 ### Backend Development:
