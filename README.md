@@ -17,7 +17,7 @@ By the end of the course, participants will develop a fully functional health ca
 ---
 ## **Technology Stack**  
 *MediLink* is developed using the following technologies:   
-- <img width="655" alt="image" src="https://github.com/user-attachments/assets/ef508623-b276-4e5c-b670-d39c636b193e">
+- <img width="738" alt="image" src="https://github.com/user-attachments/assets/a225e2e3-da17-4ff3-9162-58c4fcce2d2d">
 
 ---
 # Project Structure for Feature Implementation
