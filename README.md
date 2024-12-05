@@ -17,7 +17,7 @@ By the end of the course, participants will develop a fully functional health ca
 ---
 ## **Technology Stack**  
 *MediLink* is developed using the following technologies:   
-- <img width="643" alt="image" src="https://github.com/user-attachments/assets/eab1d083-add6-4ed0-ae7a-707da2b622c6">
+- <img width="655" alt="image" src="https://github.com/user-attachments/assets/ef508623-b276-4e5c-b670-d39c636b193e">
 
 ---
 # Project Structure for Feature Implementation
@@ -215,4 +215,32 @@ This project is structured to ensure a step-by-step approach for feature develop
 - *Screenshots are provided below for reference.*
 - <img width="663" alt="image" src="https://github.com/user-attachments/assets/cf0cf76b-d673-4a27-a28b-c8d92ca22727">
 
+# Week 6: Final Testing and Deployment
+**Goal:** Test the application thoroughly and deploy it to a cloud platform.
+
+## Week-6 Task:
+- Spring boot unit testing
+   - **Reading Material:** [Spring Boot Unit Testing Guid](https://spring.io/guides/gs/testing-web)
+   - **Lecture Video:** [Spring Boot Unit Lecture](https://www.youtube.com/watch?v=qpK1AoFWY8k)
+-  Api testing in postman
+   - **Lecture Video:** [Backend Api Testing Lecture](https://www.youtube.com/watch?v=CLG0ha_a0q8)
+- Deploy spring boot to AWS
+   -  **Lecture Video:** [Deploy springboot to Aws Lecture](https://www.youtube.com/watch?v=jrxIubdf3O8&list=PLSg8jHkYTg9FG9v5VEikhYwhT_9SdXHcU)
+- Deploy frontend to Vercel
+   - **Lecture Video:** [Deploy frontend to vercel Lecture](https://www.youtube.com/watch?v=b2bIdtSwDhc)
+  
+## Week-6 Deliverble:
+### Testing:
+- Test all features (registration, articles, appointments, system checker) for functionality and security.
+- Use Postman or Swagger to test backend APIs.
+- Ensure frontend-backend communication is seamless.
+- Perform unit testing for both frontend and backend.
+
+### Deployment:
+- Deploy the backend (Spring Boot) on Heroku or AWS.
+- Deploy the frontend (React app) on Netlify or Vercel.
+- Ensure everything works in the live environment.
+- Monitor application performance and user activity.
 ---
+
+**The End**
