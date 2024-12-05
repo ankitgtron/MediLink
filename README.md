@@ -191,8 +191,8 @@ This project is structured to ensure a step-by-step approach for feature develop
 - Show appointment details on the user dashboard.
 - Send booking confirmation emails to users.
 - *Screenshots are provided below for reference.*
-- <img width="909" alt="image" src="https://github.com/user-attachments/assets/d1b88d12-5c8e-42ae-b905-a1d305a1aef5">
-   
+- <img width="689" alt="image" src="https://github.com/user-attachments/assets/110c1622-01c9-4b6d-923c-046db7bde7bf">
+  
 ---
 # Week 5: Disease Classification Tool (System Checker)
 **Goal**: Create a tool that helps users classify their symptoms and suggests potential diseases and specialist doctors.
