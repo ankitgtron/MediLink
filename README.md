@@ -16,22 +16,7 @@ By the end of the course, participants will develop a fully functional health ca
 
 ---
 ## **Technology Stack**  
-*MediLink* is developed using the following technologies:  
-
-### **1) HTML (HyperText Markup Language):**  
-HTML forms the backbone of the website, providing its basic structure and content.  
-- **Reading Material:** [HTML Guide](https://www.w3schools.com/html/default.asp)  
-- **Lecture Video:** [HTML Lecture](https://www.youtube.com/watch?v=BsDoLVMnmZs)  
-
-### **2) CSS (Cascading Style Sheets):**  
-CSS styles and enhances the visual appeal of the website, making it responsive and user-friendly.  
-- **Reading Material:** [CSS Guide](https://www.w3schools.com/css/default.asp)  
-- **Lecture Video:** [CSS Lecture](https://www.youtube.com/watch?v=wRNinF7YQqQ)  
-
-### **3) JavaScript:**  
-JavaScript adds dynamic functionalities and interactivity to the website.  
-- **Reading Material:** [JavaScript Guide](https://www.w3schools.com/js/default.asp)  
-- **Lecture Video:** [JavaScript Lecture](https://www.youtube.com/watch?v=hKB-YGF14SY)  
+*MediLink* is developed using the following technologies:   
 
 ---
 ## **How to Run the Project**  
@@ -53,7 +38,29 @@ This project is structured to ensure a step-by-step approach for feature develop
 # Features Breakdown
 
 # Week 1: **Introduction to Web Development and Tools** 
-The website contains the following sections:  
+## Week-1 Tasks:
+- Overview of Full-Stack Development
+   - **Lecture Video:** [Overview](https://www.youtube.com/watch?v=8KaJRw-rfn8)
+- Tool and Environment setup
+     -  **Reading Material:** [Spring Boot Guide](https://spring.io/guides/gs/spring-boot)
+     -  **Lecture Video:** [SpringBoot Lecture](https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF)  
+
+- Basics of HTML (HyperText Markup Language): HTML forms the backbone of the website, providing its basic structure and content.
+  -    **Reading Material:** [HTML Guide](https://www.w3schools.com/html/default.asp)
+  -    **Lecture Video:** [HTML Lecture](https://www.youtube.com/watch?v=BsDoLVMnmZs)  
+
+- Basics of CSS(Cascading Style Sheets): CSS styles and enhances the visual appeal of the website, making it responsive and user-friendly.  
+   - **Reading Material:** [CSS Guide](https://www.w3schools.com/css/default.asp)  
+   - **Lecture Video:** [CSS Lecture](https://www.youtube.com/watch?v=wRNinF7YQqQ)
+      
+- Basics of Javascript: JavaScript adds dynamic functionalities and interactivity to the website.  
+   - **Reading Material:** [JavaScript Guide](https://www.w3schools.com/js/default.asp)  
+   - **Lecture Video:** [JavaScript Lecture](https://www.youtube.com/watch?v=hKB-YGF14SY)  
+
+
+## Week-1 Deliverables
+- Create a basic static webpage with the following navigation feature
+  
 1. **Home:**  
    Navigate to the homepage of the website for an overview of services and features.  
 
@@ -72,7 +79,13 @@ The website contains the following sections:
 6.  **System Checker**  
    Get your symptoms for better diagnosis .
 
-*Screenshots of each section are provided below for reference.*  
+7. **Sign Up/Login**  
+   Sign Up and login patient .
+
+8.  **OPD Appointment Booking**
+    Book appointment
+
+*Screenshots are provided below for reference.*  
 ## **Screenshots**  
 
 ### 1. Home:  
@@ -91,6 +104,8 @@ The website contains the following sections:
 ![Contact Screenshot](https://github.com/user-attachments/assets/00d1e9ba-f2ed-4b6e-8a3d-4396745aefe4) 
 
 ### 6. System Checker: 
+
+### 7. OPD Appointment Booking
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/ce8c6546-4ab0-48f6-8bd4-518c62a4a52f">
 
 ---
