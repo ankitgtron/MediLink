@@ -16,8 +16,78 @@ By the end of the course, participants will develop a fully functional health ca
 
 ---
 ## **Technology Stack**  
+### **Technology Stack for MediLink**
+
+#### **Frontend**
+1. **HTML**  
+   - **Purpose**: Provides the foundational structure of the web application.  
+   - **Use Case**: Used for creating static and semantic elements of the pages, such as the homepage, navigation bar, and form inputs.  
+
+2. **CSS**  
+   - **Purpose**: Styles the web application to ensure a visually appealing and responsive user interface.  
+   - **Use Case**: Enhances the design of components, including buttons, headers, and layouts, ensuring a professional look.  
+
+3. **JavaScript**  
+   - **Purpose**: Adds interactivity and dynamic functionality to the application.  
+   - **Use Case**: Enables features like dynamic form validations, navigation enhancements, and animations on pages.  
+
+4. **jQuery** (optional)  
+   - **Purpose**: Simplifies DOM manipulation and event handling.  
+   - **Use Case**: Facilitates features like AJAX requests, event handling for UI elements, and interactive form submissions.  
+
+---
+
+#### **Backend**
+1. **Spring Boot**  
+   - **Purpose**: A robust framework for building RESTful APIs and managing backend logic efficiently.  
+   - **Use Case**: Manages user authentication, article retrieval, appointment scheduling, and System Checker logic.  
+
+2. **Spring Data JPA**  
+   - **Purpose**: Simplifies database interaction by abstracting CRUD operations.  
+   - **Use Case**: Handles database operations for users, articles, and appointments in MySQL.  
+
+3. **Spring Security**  
+   - **Purpose**: Provides secure authentication and authorization mechanisms.  
+   - **Use Case**: Protects endpoints and ensures role-based access control for the backend APIs.
+
+---
+
+#### **Database**
+1. **MySQL**  
+   - **Purpose**: A reliable relational database for managing structured healthcare data.  
+   - **Use Case**: Stores user information, appointment details, article content, and symptom-related data for the System Checker.
+
+---
+
+#### **AI and ML Integration**
+1. **ChatGPT or OpenAI API**  
+   - **Purpose**: Leverages natural language processing to analyze symptoms and provide healthcare recommendations.  
+   - **Use Case**: Powers the AI-driven System Checker feature to classify symptoms and recommend doctors.  
+
+---
+
+#### **Deployment**
+1. **AWS**  
+   - **Purpose**: Provides a secure and scalable platform for backend hosting.  
+   - **Use Case**: Hosts the Spring Boot backend for handling API requests and data management.  
+
+2. **Vercel**  
+   - **Purpose**: Optimized for deploying modern static websites and serverless frontend frameworks.  
+   - **Use Case**: Hosts the frontend (HTML, CSS, JavaScript) for seamless and fast user interaction.  
+
+--- 
+
+
 *MediLink* is developed using the following technologies:   
-- <img width="738" alt="image" src="https://github.com/user-attachments/assets/a225e2e3-da17-4ff3-9162-58c4fcce2d2d">
+- ![image](https://github.com/user-attachments/assets/0914ab9a-4b4c-4d57-ae3c-5a2066bda966)
+![image](https://github.com/user-attachments/assets/794b4289-6d04-439e-80ab-ab2be6c924be)
+![image](https://github.com/user-attachments/assets/65a57468-b9b7-49c3-bbdc-81379fb5f9ef)
+![image](https://github.com/user-attachments/assets/3d105cf6-0620-4441-82a9-f18c77c9117c)
+![image](https://github.com/user-attachments/assets/64e0373e-2597-4569-b6f6-a570f56b4b8d)
+![image](https://github.com/user-attachments/assets/394ebde4-ff9b-49d8-8396-7f7ffe206afc)
+![image](https://github.com/user-attachments/assets/098a1488-ca5b-4c29-8b8e-ea3be28ec96f)
+![image](https://github.com/user-attachments/assets/e6f87067-3084-46af-afa4-5b88b7eaca10)
+
 
 ---
 # Project Structure for Feature Implementation
