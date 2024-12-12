@@ -101,8 +101,7 @@ This section demonstrates the high-level architecture of the **MediLink** app, s
 - The **backend** (Spring Boot, Spring Security) for handling authentication, appointment scheduling, and AI-driven logic.
 - The **AI system** (ChatGPT or OpenAI API) for analyzing user symptoms and providing healthcare recommendations.
 - The **database** (MySQL) for storing user profiles, appointments, and healthcare data.
-- ![image](https://github.com/user-attachments/assets/cce18e9f-5f05-4194-9423-f24e245ea1fe)
-
+- ![image](https://github.com/user-attachments/assets/a8ce0a72-036d-4f69-9abb-ca006b731240)
 
 ---
 
